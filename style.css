@@ -1,0 +1,30 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+#button
+{
+    font-size: 20px;
+    background-color: gray;
+    color: white;
+    float: left;
+}
+
+canvas
+{
+    box-shadow: 15px 10px 10px red;
+    border-radius: 10px;
+}
